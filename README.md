@@ -131,8 +131,3 @@ with open("best.pickle", "rb") as f:
 This project demonstrates how evolutionary algorithms like NEAT can be applied to solve complex problems. Watching the AI improve and become more adept at playing Flappy Bird is both fascinating and a practical example of **machine learning** in action.
 
 Feel free to clone the project, modify the code, and experiment with your own ideas! If you enjoyed working on this, please give it a ⭐ on GitHub!
-
----
-
-Happy coding and have fun watching your AI learn to play Flappy Bird! 😊
-
